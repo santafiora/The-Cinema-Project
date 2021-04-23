@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheCinemaProjekt.MockUp.Solution
+namespace TheCinemaProject.Mockup
 {
     class Program
     {
         static void Main(string[] args)
         {
 
-            //Demo
+            Console.WriteLine("Hello World");
         }
     }
 }

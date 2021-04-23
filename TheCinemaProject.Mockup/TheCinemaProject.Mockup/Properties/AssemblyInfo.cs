@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("TheCinemaProjekt.MockUp.Solution")]
+[assembly: AssemblyTitle("TheCinemaProject.Mockup")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TheCinemaProjekt.MockUp.Solution")]
+[assembly: AssemblyProduct("TheCinemaProject.Mockup")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("1fe31b17-16de-49c2-a9b2-cbc357ab5989")]
+[assembly: Guid("02e68547-f366-4863-9d12-e8cc98cc4b93")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //

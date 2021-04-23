@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCinemaProjekt.MockUp.Solution", "TheCinemaProjekt.MockUp.Solution.csproj", "{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCinemaProject.Mockup", "TheCinemaProject.Mockup\TheCinemaProject.Mockup.csproj", "{02E68547-F366-4863-9D12-E8CC98CC4B93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E68547-F366-4863-9D12-E8CC98CC4B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E68547-F366-4863-9D12-E8CC98CC4B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E68547-F366-4863-9D12-E8CC98CC4B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E68547-F366-4863-9D12-E8CC98CC4B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D1D92722-5A5E-44B7-BC27-0B63EA23B044}
+		SolutionGuid = {CEAB5006-33A4-489F-939F-F9491EC6866B}
 	EndGlobalSection
 EndGlobal

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FE31B17-16DE-49C2-A9B2-CBC357AB5989}</ProjectGuid>
+    <ProjectGuid>{02E68547-F366-4863-9D12-E8CC98CC4B93}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TheCinemaProjekt.MockUp.Solution</RootNamespace>
-    <AssemblyName>TheCinemaProjekt.MockUp.Solution</AssemblyName>
+    <RootNamespace>TheCinemaProject.Mockup</RootNamespace>
+    <AssemblyName>TheCinemaProject.Mockup</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
